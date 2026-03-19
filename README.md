@@ -1,4 +1,3 @@
-﻿# 🐍 Calculadora de Consumo de Energia
 # :zap: CALCULADOR DE CONSUMO DE ENERGIA
 ## Descrição
 esse projeto calcula o consumo de energia
@@ -11,7 +10,7 @@ python app.py
 ## :man_technologist: Autor
 Gabriel cruz
 # :fire: Código
-'''python
+'''python ![Python](https://img.shields.io/badge/Python-3.x-blue)
 # Programa para calcular consumo mensal de energia
 
 aparelho= input("Digite o nome do aparelho: ")
