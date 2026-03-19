@@ -1,4 +1,4 @@
-﻿# Consumo-de-energia
+﻿# 🐍 Calculadora de Consumo de Energia
 # :zap: CALCULADOR DE CONSUMO DE ENERGIA
 ## Descrição
 esse projeto calcula o consumo de energia
